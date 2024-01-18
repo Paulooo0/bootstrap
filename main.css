@@ -34,7 +34,7 @@ body {
     width: 100%;
 }
 
-article > img {
+.card > img {
     width: 100%;
     border-radius: 6px;
 }
